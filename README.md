@@ -23,32 +23,6 @@ A modern, full-stack machine learning application that predicts loan eligibility
 - **Robust Preprocessing** - Handles missing values and encoding
 - **Cross-validation** - 5-fold CV for model reliability
 
-## 🏗️ Project Structure
-
-```
-Loan_Eligibility_Project/
-│
-├── backend/
-│   ├── app.py                 # Flask API server
-│   ├── model_train.py         # Model training script
-│   ├── loan_model.pkl         # Trained model (generated)
-│   └── requirements.txt       # Python dependencies
-│
-├── frontend/
-│   ├── index.html             # Main HTML page
-│   ├── css/
-│   │   └── style.css          # Styles and animations
-│   ├── js/
-│   │   └── script.js          # Frontend logic
-│   └── assets/                # Images/icons (optional)
-│
-├── dataset/
-│   └── loan_data.csv          # Training dataset
-│
-├── models/                     # Saved models directory
-│
-└── README.md                  # This file
-```
 
 ## 🚀 Quick Start
 
